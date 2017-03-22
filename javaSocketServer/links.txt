@@ -1,0 +1,3 @@
+http://proglang.su/java - учебник для начинающих
+http://www.quizful.net/post/java-socket-programming - пример реализации сервера и клиента
+https://docs.oracle.com/javase/8/docs/api/overview-summary.html - документация к Java 1.8
